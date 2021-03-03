@@ -1,0 +1,94 @@
+﻿{
+  "testData": [
+    {
+      "name": "1.1. Город как среда обитания. Задание 1",
+      "timeForQuestionsInSec": 30,
+      "typeOfTest": 0,
+      "questionText": "Дополните информацию: «Город - это населённый пункт, жители которого, как правило, не занимаются сельским хозяйством. Однако не каждый населённый пункт может считаться городом. Так, согласно российским законам, город должен иметь не менее»",
+      "answers": [
+        { "answerText": "12 тыс. жителей" },
+        { "answerText": "10 тыс. жителей" },
+        { "answerText": "8 тыс. жителей" },
+        { "answerText": "15 тыс. жителей" }
+      ],
+      "correctAnswers": [ { "correctAnswerText": "12 тыс. жителей" } ]
+    },
+    {
+      "name": "1.1. Город как среда обитания. Задание 2",
+      "timeForQuestionsInSec": 40,
+      "typeOfTest": 2,
+      "questionText": "Вставьте на свои места определения современных городов",
+      "answers": [
+        { "answerText": "малые" },
+        { "answerText": "средние" },
+        { "answerText": "большие" },
+        { "answerText": "крупные" },
+        { "answerText": "крупнейшие" },
+        { "answerText": "города-миллионеры" }
+      ],
+      "correctAnswers": [
+        { "correctAnswerText": "до 50 тыс. жителей" },
+        { "correctAnswerText": "50-100 тыс. жителей" },
+        { "correctAnswerText": "100-250 тыс. жителей" },
+        { "correctAnswerText": "250-500 тыс. жителей" },
+        { "correctAnswerText": "500-1 млн жителей" },
+        { "correctAnswerText": "свыше 1 млн жителей" }
+      ]
+    },
+    {
+      "name": "1.5. Безопасность в повседневной жизни.     Задание 3",
+      "timeForQuestionsInSec": 30,
+      "typeOfTest": 0,
+      "questionText": "Дополните информацию: «Чрезвычайная ситуация отличается от опасной прежде всего»",
+      "answers": [
+        { "answerText": "временем года" },
+        { "answerText": "внезапностью возникновения" },
+        { "answerText": "тяжестью последствий" },
+        { "answerText": "степенью риска" }
+      ],
+      "correctAnswers": [ { "correctAnswerText": "тяжестью последствий" } ]
+    },
+    {
+      "name": "3.1. Погодные явления и безопасность человека. Задание 1",
+      "timeForQuestionsInSec": 30,
+      "typeOfTest": 0,
+      "questionText": "Выдилите лишние слова и словосочетания",
+      "answers": [
+        { "answerText": "температура окружающего воздуха" },
+        { "answerText": "кислородное голодание" },
+        { "answerText": "атмосферное давление" },
+        { "answerText": "ветер" },
+        { "answerText": "сообщения синоптиков" }
+      ],
+      "correctAnswers": [
+        { "correctAnswerText": "кислородное голодание" },
+        { "correctAnswerText": "сообщения синоптиков" }
+      ]
+    },
+    {
+      "name": "8.1. Вредные привычки и их влияние на здоровье человека. Задание 2",
+      "timeForQuestionsInSec": 40,
+      "typeOfTest": 1,
+      "questionText": "Составьте фразу из приведённых ниже фрагментов",
+      "answers": [
+        { "answerText": "со своей болезненной" },
+        { "answerText": "большинству курящих," },
+        { "answerText": "привычкой, надо твёрдо" },
+        { "answerText": "захотеть это сделать" },
+        { "answerText": "такого шага, сдержать" },
+        { "answerText": "данное себе слово" },
+        { "answerText": "и, осознав необходимость" },
+        { "answerText": "для того чтобы распрощаться" }
+      ],
+      "correctAnswers": [
+        { "correctAnswerText": "большинству курящих," },
+        { "correctAnswerText": "для того чтобы распрощаться" },
+        { "correctAnswerText": "со своей болезненной" },
+        { "correctAnswerText": "привычкой, надо твёрдо" },
+        { "correctAnswerText": "захотеть это сделать" },
+        { "correctAnswerText": "и, осознав необходимость" },
+        { "correctAnswerText": "такого шага, сдержать" },
+        { "correctAnswerText": "данное себе слово" }
+      ]
+    }
+  ]}
